@@ -1,10 +1,10 @@
-# 👋 Olá! Eu sou Luiz Phelipe
+# 👋 Olá! Meu nome é Luiz Phelipe Soares Araujo
 
 🎓 **Graduando em Análise e Desenvolvimento de Sistemas** pela UDF. Apaixonado por tecnologia, estudo diariamente para aprimorar minhas habilidades e contribuir em projetos inovadores.
 
 ## 🚀 Sobre mim
 
-- 🎮 Adoro jogar videogame nas horas vagas
+- 🎮 Gosto de jogar videogame nas horas vagas
 - 🎶 Música é minha companhia constante
 - 💻 Sempre buscando aprender e compartilhar conhecimento
 
