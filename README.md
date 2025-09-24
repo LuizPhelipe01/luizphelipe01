@@ -1,16 +1,33 @@
-## Hi there 👋
+# 👋 Olá! Eu sou Luiz Phelipe
 
-<!--
-**LuizPhelipe01/luizphelipe01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Graduando em Análise e Desenvolvimento de Sistemas** pela UDF. Apaixonado por tecnologia, estudo diariamente para aprimorar minhas habilidades e contribuir em projetos inovadores.
 
-Here are some ideas to get you started:
+## 🚀 Sobre mim
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎮 Adoro jogar videogame nas horas vagas
+- 🎶 Música é minha companhia constante
+- 💻 Sempre buscando aprender e compartilhar conhecimento
+
+## 🛠️ Principais habilidades
+
+- **Python**
+- **MySQL**
+- **HTML & CSS**
+- **JavaScript** (em aprendizado)
+- **Flask**
+- **GitHub**
+- **Scrum & Trello**
+
+## 🌟 Projeto em destaque
+
+[Receitas Caseiras](https://github.com/LuizPhelipe01/Receitas-Caseiras)  
+Um projeto dedicado a reunir receitas práticas e saborosas, desenvolvido com foco em aprendizado e organização de código.
+
+## 📫 Como me encontrar
+
+- [LinkedIn](https://www.linkedin.com/in/luizphelipe82/)
+- **E-mail:** luiz.phelipe8211@gmail.com
+
+---
+
+*Este README está em constante atualização. Em breve adicionarei minha imagem de perfil e novas informações!*
