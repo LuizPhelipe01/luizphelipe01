@@ -29,5 +29,3 @@ Um projeto dedicado a reunir receitas práticas e saborosas, desenvolvido com fo
 - **E-mail:** luiz.phelipe8211@gmail.com
 
 ---
-
-*Este README está em constante atualização. Em breve adicionarei minha imagem de perfil e novas informações!*
