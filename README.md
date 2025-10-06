@@ -25,7 +25,7 @@ Um projeto dedicado a reunir receitas práticas e saborosas, desenvolvido com fo
 
 ## 📫 Como me encontrar
 
-- [LinkedIn](https://www.linkedin.com/in/luizphelipe82/)
+- **Linkedin:** [LinkedIn](https://www.linkedin.com/in/luizphelipe82/)
 - **E-mail:** luiz.phelipe8211@gmail.com
 
 ---
